@@ -1,5 +1,14 @@
 <template>
-	<h1>Home</h1>
-	<p>Lorem ipsum dolore est laborum dolor velit non proident consequat commodo. Ex laboris deserunt incididunt amet in in mollit mollit in dolor. Occaecat ea elit officia eu eu eu sunt cupidatat. Ad dolore sint ea dolor minim dolor amet dolor laboris consectetur quis consectetur.</p>
+	<h2>Home</h2>
+	<p>Lorem ipsum dolore est laborum dolor velit non proident consequat commodo. Ex laboris deserunt incididunt amet in in mollit mollit in dolor.</p>
+	<p>Lorem ipsum dolore est laborum dolor velit non proident consequat commodo. Ex laboris deserunt incididunt amet in in mollit mollit in dolor.</p>
 </template>
-<style scoped></style>
+<style scoped>
+	h2 {
+		margin-bottom: 20px;
+		font-size: 36px;
+	}
+	p {
+		margin: 20px;
+	}
+</style>

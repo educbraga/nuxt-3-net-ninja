@@ -7,5 +7,5 @@ export default defineEventHandler(async(event) => {
 
 	const {data} = await $fetch(uri)
 
-	return uri
+	return data
 })
